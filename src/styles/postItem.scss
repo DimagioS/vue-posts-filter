@@ -1,0 +1,16 @@
+.card-user-info {
+  opacity: .6;
+}
+
+.card {
+  min-height: 350px;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-text {
+  flex: 1 1 auto;
+}
